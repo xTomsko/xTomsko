@@ -3,15 +3,16 @@
 
 <div class='row' style='display: flex;'>
     <div class='column' style="flex: 50%;">
-        <h1 align="center">About me!</h1>
-        <h2>👨‍🎓 Cyber Security Student</h2>
-        <h2> 🏴 CTF Player</h2>
-        <h2>⌨️ Mechanical Keyboard Enthusiast</h2>
-        <h2>💻 Apple Sheep</h2>
-        <h2>🎥 Huge fan of Marvel and Star Wars</h2>
+        <p align="center">About me!
+        👨‍🎓 Cyber Security Student
+        🏴 CTF Player
+        ⌨️ Mechanical Keyboard Enthusiast
+        💻 Apple Sheep
+        🎥 Huge fan of Marvel and Star Wars
+        </p>
     </div>
     <div align="center" class='column'style='flex: 50%;'>
-        <h1>Plattform, Technologies & Tools</h1>
+        <p>Plattform, Technologies & Tools</p>
         <br>
         <img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple'> <img src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff'> <br>
         <img src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff'>
