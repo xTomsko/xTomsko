@@ -45,7 +45,7 @@
     <img align="center" src="https://github-readme-stats-5kmg4oqh4-xtomsko.vercel.app/api?username=xTomsko&theme=myThemeGradient&show_icons=true&hide_border=true" alt="readme stats">
 </a>
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xTomsko&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=30,7593eb,6a6fe7,8ab4ec&theme=light&hide_border=true&langs_count=3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xTomsko&title_color=ffffff&text_color=ffffff&bg_color=30,7593eb,6a6fe7,8ab4ec&theme=light&hide_border=true&langs_count=3">
 </a>
 <br>
 <br>
