@@ -1,5 +1,5 @@
 <img src='banner.gif' />
-<a>
+<a href="https://github.com/xTomsko/xTomsko">
 <p align='center'>
         <li>About me!</li>
         👨‍🎓 Cyber Security Student
@@ -8,7 +8,7 @@
         💻 Apple Sheep
         🎥 Huge fan of Marvel and Star Wars
 </p></a>
-<a>
+<a href="https://github.com/xTomsko/xTomsko">
 <p align='center'>
         Plattform, Technologies & Tools 
 </p>
@@ -51,14 +51,6 @@
 <a href="https://github.com/xTomsko/xTomsko">
   <img align="center" src="https://github-readme-stats-5kmg4oqh4-xtomsko.vercel.app/api?username=xTomsko&theme=myThemeGradient&show_icons=true&hide_border=true&line_height=27&count_private=true" alt="readme stats" alt="Martin's GitHub Stats" />
 </a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
