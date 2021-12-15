@@ -1,8 +1,8 @@
 <img src='banner.gif' />
-<table border='0'>
+<table border='0' align='center'>
   <tr>
-    <td><b style="font-size:30px">About Me</b></td>
-    <td><b style="font-size:30px">Plattform, Technologies & Tools</b></td>
+    <td><b align='center' style="font-size:30px">About Me</b></td>
+    <td><b align='center' style="font-size:30px">Plattform, Technologies & Tools</b></td>
   </tr>
   <tr>
     <td>
