@@ -1,6 +1,6 @@
 <img src='banner.gif'>
 
-<img align="right" src="https://github-readme-stats-5kmg4oqh4-xtomsko.vercel.app/api?username=anuraghazra&theme=myThemeGradient&show_icons=true" alt="readme stats">
+<img align="right" src="https://github-readme-stats-5kmg4oqh4-xtomsko.vercel.app/api?username=xTomsko&theme=myThemeGradient&show_icons=true" alt="readme stats">
 <br>
 <br>
 <br>
