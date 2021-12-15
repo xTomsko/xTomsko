@@ -1,5 +1,5 @@
 <img src='banner.gif' />
-<a align="center">
+<a>
         About me!
         👨‍🎓 Cyber Security Student
         🏴 CTF Player
@@ -8,10 +8,10 @@
         🎥 Huge fan of Marvel and Star Wars
 </a>
     
-<a align="center">
+<a>
             Plattform, Technologies & Tools
-            <br>
-            <img align="center" src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple' /> <img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000' /> 
+        
+            <img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple' /> <img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000' /> 
 
         <img src='https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff'/> 
         <img src='https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff'/>
