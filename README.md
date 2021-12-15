@@ -1,5 +1,5 @@
 <img src='banner.gif' />
-<table border='0' align='center' style='display: flex;'>
+<table border='0' align='center'>
   <tr>
     <td><b align='center' style="font-size:30px">About Me</b></td>
     <td><b align='center' style="font-size:30px">Plattform, Technologies & Tools</b></td>
