@@ -6,11 +6,11 @@
   </tr>
   <tr>
     <td>
-        👨‍🎓 Cyber Security Student
-        🏴 CTF Player
-        ⌨️ Mechanical Keyboard Enthusiast
-        💻 Apple Sheep
-        🎥 Huge fan of Marvel and Star Wars
+        <li>👨‍🎓 Cyber Security Student</li>
+        <li>🏴 CTF Player</li>
+       <li>⌨️ Mechanical Keyboard Enthusiast</li>
+        <li>💻 Apple Sheep</li>
+        <li>🎥 Huge fan of Marvel and Star Wars</li>
     </td>
     <td>    
 <p align='center'>
