@@ -42,11 +42,6 @@
 </tr>
 </table>
 
-
-
-<p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/xTomsko.png" alt="TryHackMe" />
-</p> 
 <br>
 
 <a href="https://github.com/xTomsko/xTomsko">
