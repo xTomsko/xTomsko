@@ -1,16 +1,15 @@
 <img src='banner.gif' />
 <a align="center">
-        <p align="center">About me!
+        About me!
         👨‍🎓 Cyber Security Student
         🏴 CTF Player
         ⌨️ Mechanical Keyboard Enthusiast
         💻 Apple Sheep
         🎥 Huge fan of Marvel and Star Wars
-    </p>
 </a>
     
 <a align="center">
-        <p>Plattform, Technologies & Tools</p>
+            Plattform, Technologies & Tools
             <br>
             <img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple' /> 
             <img src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff' /> 
