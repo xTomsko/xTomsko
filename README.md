@@ -1,4 +1,5 @@
 <img src='banner.gif' />
+<a>
 <p align='center'>
         <li>About me!</li>
         👨‍🎓 Cyber Security Student
@@ -6,8 +7,8 @@
         ⌨️ Mechanical Keyboard Enthusiast
         💻 Apple Sheep
         🎥 Huge fan of Marvel and Star Wars
-</p>
-   
+</p></a>
+<a>
 <p align='center'>
         Plattform, Technologies & Tools 
 </p>
@@ -36,7 +37,7 @@
         <a href='https://iterm2.com'><img src='https://img.shields.io/badge/-iTerm2-ffffff?style=flat-square&logo=iTerm2&logoColor=000000'></a>
         <a href='https://code.visualstudio.com'><img src='https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff' /></a> 
         <a href='https://www.jetbrains.com'><img src='https://img.shields.io/badge/-JetBrains-ffffff?style=flat-square&logo=JetBrains&logoColor=000000'/></a>
-</p>
+</p></a>
 
 
 <p align="center">
