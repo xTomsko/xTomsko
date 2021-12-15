@@ -8,10 +8,16 @@
         🎥 Huge fan of Marvel and Star Wars
 </a>
     
-<a>
+<p align='center'>
             Plattform, Technologies & Tools
-        
-            <img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple' /> <img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff' /> <img align="center" src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000' /> 
+       
+        <a href='https://www.apple.com'><img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=ffffff'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff'> </a>                    
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000'></a>  
 
         <img src='https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff'/> 
         <img src='https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff'/>
@@ -24,7 +30,7 @@
         <img src='https://img.shields.io/badge/-iTerm2-ffffff?style=flat-square&logo=iTerm2&logoColor=000000'>
         <img src='https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff' /> 
         <img src='https://img.shields.io/badge/-JetBrains-ffffff?style=flat-square&logo=JetBrains&logoColor=000000'/>
-</a>
+</p>
 
 
 <p align="center">
