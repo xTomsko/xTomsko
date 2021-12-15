@@ -41,6 +41,9 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/xTomsko.png" alt="TryHackMe">
 </p> 
 <br>
+
+## &#x1f4c8; GitHub Stats
+
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xTomsko&title_color=ffffff&text_color=ffffff&bg_color=30,7593eb,6a6fe7,8ab4ec&theme=light&hide_border=true&langs_count=3">
 </a>
