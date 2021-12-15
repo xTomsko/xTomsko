@@ -1,17 +1,18 @@
 <img src='banner.gif' />
-<a href="https://github.com/xTomsko/xTomsko">
-<p align='center'>
-        <li>About me!</li>
+<table border='0'>
+  <tr>
+    <td><b style="font-size:30px">About Me</b></td>
+    <td><b style="font-size:30px">Plattform, Technologies & Tools</b></td>
+  </tr>
+  <tr>
+    <td>
         👨‍🎓 Cyber Security Student
         🏴 CTF Player
         ⌨️ Mechanical Keyboard Enthusiast
         💻 Apple Sheep
         🎥 Huge fan of Marvel and Star Wars
-</p></a>
-<a href="https://github.com/xTomsko/xTomsko">
-<p align='center'>
-        Plattform, Technologies & Tools 
-</p>
+    </td>
+    <td>    
 <p align='center'>
         <a href='https://www.apple.com'><img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple'></a> 
         <a href='https://www.kali.org'><img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff'></a>
@@ -37,7 +38,10 @@
         <a href='https://iterm2.com'><img src='https://img.shields.io/badge/-iTerm2-ffffff?style=flat-square&logo=iTerm2&logoColor=000000'></a>
         <a href='https://code.visualstudio.com'><img src='https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff' /></a> 
         <a href='https://www.jetbrains.com'><img src='https://img.shields.io/badge/-JetBrains-ffffff?style=flat-square&logo=JetBrains&logoColor=000000'/></a>
-</p></a>
+</p></td>
+</tr>
+</table>
+
 
 
 <p align="center">
