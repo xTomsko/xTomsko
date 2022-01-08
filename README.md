@@ -14,7 +14,7 @@
     </td>
     <td>    
 <p align='center'>
-        <a href='https://www.apple.com'><img src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple'></a> 
+        <a href='https://www.apple.com'><img align="center" src='https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple'></a> 
         <a href='https://www.kali.org'><img align="center" src='https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff'></a>
 </p>
 <p align='center'>
