@@ -20,9 +20,7 @@
 <p align='center'>
         <a href='https://github.com/xTomsko?tab=repositories&language=python'><img align="center" src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff'></a> 
         <a href='https://github.com/xTomsko?tab=repositories&language=java'><img align="center" src='https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=ffffff'></a> 
-        <a href='https://github.com/xTomsko?tab=repositories&language=html'><img align="center" src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff'> </a>                    
-        <a href='https://github.com/xTomsko?tab=repositories&language=css'><img align="center" src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff'></a> 
-        <a href='https://github.com/xTomsko?tab=repositories&language=javascript'><img align="center" src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000'></a>
+<img align="center" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"></a>
 </p>  
 <p align='center'>
         <a href='https://www.docker.com'><img src='https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff'/></a> 
