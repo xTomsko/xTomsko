@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-        <li>👨‍🎓 Cyber Security Student</li>
+        <li>👨‍🎓 Cybersecurity Student</li>
         <li>🏴 CTF Player</li>
        <li>⌨️ Mechanical Keyboard Enthusiast</li>
         <li>💻 Apple Sheep</li>
